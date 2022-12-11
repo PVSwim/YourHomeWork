@@ -16,3 +16,9 @@ to clone the own remote repository to local one
 7. *git checkout pvlasenko* switch to the new branch
 
 8. to make changes and proceed commit
+
+9. *git push --set-upstream origin pvlasenko* - push changes to your repote repository. In GitHub in your repository will be added new branch and changes to the branch
+
+10. To push "Compare & pull request" to send a request to add changes to the original repository
+
+
